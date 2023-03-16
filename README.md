@@ -11,16 +11,12 @@ I´ve got experience in the investigation of inflationary cosmological models of
 Skills: Python / MySql / Power BI / Pandas / Scikit-learn / AWS / Github / Hadoop
 
 - 🌱 I’m currently learning Agile thought methodologies 
+- 📫 How to reach me: afloresch144@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/molten1919)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Alejandro Flores Chávez/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Aleks Chávez)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/molten1919)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/alejandro-flores-chavez//)  
 
 
-
-
-
-You can reach me out in LinkedIn: https://www.linkedin.com/in/alejandro-flores-chavez/
-or by e-mail: afloresch144@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=molten1919)](https://github.com/anuraghazra/github-readme-stats)
 
