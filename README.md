@@ -12,8 +12,5 @@ Skills: Python / MySql / Power BI / Pandas / Scikit-learn / AWS / Github / Hadoo
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/molten1919)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alejandro-flores-chavez/)  
 
-
-
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=molten1919)](https://github.com/anuraghazra/github-readme-stats)
 
